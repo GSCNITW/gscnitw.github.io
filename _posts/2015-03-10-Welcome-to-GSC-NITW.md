@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Welcome to GSC-NITW
-date:       2015-03-10 11:21:29
+date:       2015-03-10 9:21:29
 summary:    Introduction to Google student club NIT Warangal chapter.
 categories: gsc asc nitw
 ---
